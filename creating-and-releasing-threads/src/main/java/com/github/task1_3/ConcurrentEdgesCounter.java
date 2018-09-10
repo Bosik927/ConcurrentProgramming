@@ -1,4 +1,4 @@
-package com.github.Task1_3;
+package com.github.task1_3;
 
 import java.util.ArrayList;
 import java.util.List;

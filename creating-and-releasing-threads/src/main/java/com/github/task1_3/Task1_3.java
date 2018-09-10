@@ -1,4 +1,4 @@
-package com.github.Task1_3;
+package com.github.task1_3;
 
 /* Zadanie 1.3.
  * Zaimplementuj funkcję zliczającą krawędzie w grafie (w wersji sekwencyjnej i współbieżnej).

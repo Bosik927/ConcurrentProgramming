@@ -1,6 +1,5 @@
-package com.github.Task1_3;
+package com.github.task1_3;
 
-import java.util.Random;
 import java.util.concurrent.ThreadLocalRandom;
 
 /**

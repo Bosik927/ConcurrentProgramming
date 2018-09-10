@@ -1,4 +1,4 @@
-package com.github.Task1_1;
+package com.github.task1_1;
 
 /*
  * Zadanie 1.1.
