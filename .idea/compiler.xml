@@ -6,7 +6,9 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="Creating_and_releasing_threads" />
+        <module name="creating-and-releasing-threads" />
+        <module name="producer-client" />
+        <module name="threads-synchronization" />
       </profile>
     </annotationProcessing>
   </component>

@@ -1,10 +1,8 @@
-package com.github.Task3_1;
+package com.github.task3_1;
 
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
-
-import static com.github.Task3_1.PasswordGeneratorEntity.*;
 
 /**
  * @author Stanisław Fiuta
@@ -43,16 +41,16 @@ public class PasswordGenerator {
         charCategories = new ArrayList<>(4);
 
         if (entity.isUseLower()) {
-            charCategories.add(LOWER_LETTERS);
+            charCategories.add(PasswordGeneratorEntity.LOWER_LETTERS);
         }
         if (entity.isUseUpper()) {
-            charCategories.add(UPPER_LETTERS);
+            charCategories.add(PasswordGeneratorEntity.UPPER_LETTERS);
         }
         if (entity.isUseDigits()) {
-            charCategories.add(DIGITS);
+            charCategories.add(PasswordGeneratorEntity.DIGITS);
         }
         if (entity.isUsePunctuation()) {
-            charCategories.add(PUNCTUATION);
+            charCategories.add(PasswordGeneratorEntity.PUNCTUATION);
         }
 
         for (int i = 0; i < length; i++) {

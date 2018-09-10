@@ -1,4 +1,4 @@
-package com.github.Task3_1;
+package com.github.task3_1;
 
 /**
  * @author Stanisław Fiuta
