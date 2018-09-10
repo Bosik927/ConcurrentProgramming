@@ -9,7 +9,9 @@
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
     <modules>
-        <module>Creating_and_releasing_threads</module>
+        <module>creating-and-releasing-threads</module>
+        <module>producer-client</module>
+        <module>threads-synchronization</module>
     </modules>
 
 
